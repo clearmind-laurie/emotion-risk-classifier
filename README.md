@@ -19,7 +19,13 @@ This project is a Natural Language Processing (NLP) system that analyzes user in
 
 It is designed as a recovery-support prototype to detect emotional states and potential relapse signals from text.
 
+## 📸 Demo
 
+### 🟢 Web App Interface
+![App Screenshot](screenshots/app_after.png)
+
+### 🟡 Initial Version
+![Initial Screenshot](screenshots/app_before.png)
 
 ##### Tech Stack
 
